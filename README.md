@@ -8,3 +8,7 @@ You can find the website at https://sneaker-stop.firebaseapp.com
 # Portfolio.xd
 UI design created in Adobe XD is for my website portfolio.
 You can check it out at https://parthjaradiportfolio.firebaseapp.com
+
+# ShrenikPortfolio.xd
+UI design for graduate student portfolio. It features a single page website <br/>
+with Vertical Scrolling and parallax effect.
