@@ -12,3 +12,7 @@ You can check it out at https://parthjaradiportfolio.firebaseapp.com
 # ShrenikPortfolio.xd
 UI design for graduate student portfolio. It features a single page website <br/>
 with Vertical Scrolling and parallax effect.
+
+# MedSafe_UI.xd
+UI desgn with prototype for an Android Application. MedSafe is a <br/>
+medication reminder application.
